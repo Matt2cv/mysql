@@ -25,7 +25,6 @@ export HOST=`hostname`		# Recuperation du nom d'host
 
 DD=`date +%d/%m/%Y`
 SUBJECT="[$HOST] Backup Mysql"
-MAIL="matthias@i-maj.org"
 
 REP_RAPPORT=""											# Repertoire du rapport
 DATE_REPORT=`date +'%Y%m%d%H%M%S'`						# Date du rapport
