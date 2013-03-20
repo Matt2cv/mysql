@@ -20,8 +20,8 @@ RETENTION=3						           # Periode de retention en nb de jour
 EXCLUDE="information_schema"     # Database a exclure
 
 DIST_SRV=""          			# IP du NAS
-DIST_REP=""   					# point de montage NFS
-export HOST=`hostname`			# Recuperation du nom d'host
+DIST_REP=""   					  # point de montage NFS
+export HOST=`hostname`		# Recuperation du nom d'host
 
 DD=`date +%d/%m/%Y`
 SUBJECT="[$HOST] Backup Mysql"
