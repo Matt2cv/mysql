@@ -2,7 +2,7 @@
 # #################################### 
 # Backup mysql base par base
 # 1 fichier par base stocke sur disque pour envoyer sur un NAS via rsync
-# 1 rapport HTML est genere permettant une visu sur forme de flux RSS
+# 1 rapport HTML est genere permettant une visu sous forme de flux RSS
 # ####################################
 # Matthias (matthias@i-maj.org)
 # ####################################
