@@ -1,0 +1,4 @@
+mysql
+=====
+
+Script admin mysql
